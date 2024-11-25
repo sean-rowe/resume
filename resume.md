@@ -2,9 +2,12 @@
 
 **Senior Full Stack Developer / Software Architect**
 
-**Email:** sean@seanrowe.com 
-**Phone:** (501) 316-6521 
-**LinkedIn:** [linkedin.com/in/hireseanrowe](https://linkedin.com/in/hireseanrowe) 
+**Email:** sean@seanrowe.com
+
+**Phone:** (501) 316-6521
+
+**LinkedIn:** [linkedin.com/in/hireseanrowe](https://linkedin.com/in/hireseanrowe)
+
 **GitHub:** [github.com/seanrowe](https://github.com/seanrowe)
 
 ## Professional Summary
