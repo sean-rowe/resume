@@ -54,30 +54,36 @@ Seasoned full-stack developer with over 25 years of experience building robust w
 
 * **INSTEC (an Insurity company)** (Feb 2017 – Jan 2018)
   * Developed Angular forms and C# backend services.
+    
 * **adMixt** (Jan 2015 – Jan 2017)
   * Led AngularJS UI development and optimized performance.
   * Developed backend endpoints using Symfony 2.
   * Integrated Stripe payments and LuckyOrange.
   * Provided AngularJS training to junior developers.
-  * Refactored backend code for improved efficiency.
+  * Refactored backend code for improved efficiency
+    
 * **Afgusa Llc** (Jan 2014 – Jan 2015)
   * Implemented Bootstrap 3 and refactored legacy ASP.NET code into AngularJS.
   * Developed C# RESTful services and AngularJS directives.
   * Guided the team in adopting Agile methodology.
+    
 * **ATSG (ShoreGroup)** (Jan 2012 – Jan 2014)
   * Analyzed legacy code and transitioned to MVC design.
   * Standardized on Yii framework and developed training materials.
   * Achieved Scrum Master certification.
   * Estimated user stories and segmented tasks.
   * Developed unit tests using PHPUnit, Selenium, and JSUnit.
+    
 * **Greystone** (Jan 2009 – Jan 2012)
   * Modernized LAMP stack applications with AJAX.
   * Implemented jQuery plugins to reduce development time.
   * Conducted code reviews and facilitated developer meet-ups.
   * Transitioned to Yii framework for backend PHP development.
   * Refactored existing code using design patterns.
+    
 * **ePublishing** (Jan 2005 – Jun 2009)
   * Developed custom solutions using Java, JSP, and XSLT.
+    
 * **Arkansas Blue Cross and Blue Shield** (Jan 2002 – May 2005)
   * Developed validation scripts, maintained websites, and wrote Perl and SQL scripts.
 
