@@ -17,7 +17,7 @@ Seasoned full-stack developer with over 25 years of experience building robust w
 
 ## Technical Skills  
 
-- **Frontend:** React, Vue.js, Angular, TypeScript, JavaScript, HTML5, CSS3/SASS, Webpack, npm, Yarn, Jest, Cypress, Redux, NgRx, RxJs  
+- **Frontend:** React, Vue.js, Angular, TypeScript, JavaScript, HTML5, CSS3/SASS, Webpack, npm, Yarn, Jest, Cypress, Redux, NgRx, RxJs, Nuxt, Nest.js, Next.js
 - **Backend:** Node.js, Python, C#, Java, SQL, NoSQL, REST APIs, GraphQL, Docker, Kubernetes, AWS, Azure, GCP  
 - **DevOps:** CI/CD, Terraform, Ansible, Jenkins  
 - **Other:** Agile/Scrum, TDD, BDD, Git  
@@ -26,11 +26,27 @@ Seasoned full-stack developer with over 25 years of experience building robust w
 
 ## Professional Experience  
 
+Here's the updated section for your experience with ArcBest, added before the Humana contract in your **Sean Rowe Consulting, LLC** experience:
+
+---
+
 ### **Sean Rowe Consulting, LLC** (Jan 2017 – Present)  
 **Owner / Consultant**  
 - Provide development and architectural consulting services to clients across industries.  
 - Specialize in building modern web applications and migrating legacy systems.  
 - Collaborate with teams to define and implement best practices in development workflows.  
+- Developed and maintained web applications using React, Angular, Vue.js, and Node.js.  
+- Implemented GraphQL APIs for efficient data fetching.  
+- Led code reviews and refactoring efforts.  
+- Integrated Connectwise, Salesforce, and legacy applications in Mulesoft.  
+
+#### Contract: **ArcBest** (Aug 2023 – Oct 2023)  
+**Senior Full Stack Developer**  
+- Led the migration from Vue 2 to Vue 3 with Nuxt for server-side rendering.  
+- Transitioned backend systems from C# to Node.js with Nuxt.  
+- Contributed to both frontend and backend conversions, ensuring seamless integration.  
+- Authored detailed documentation and implemented robust tests to ensure maintainability and scalability.  
+- Collaborated with stakeholders to align technical solutions with business requirements.  
 
 #### Current Contract: **Humana** (Nov 2023 – Present)  
 **Senior Frontend Developer**  
@@ -41,7 +57,7 @@ Seasoned full-stack developer with over 25 years of experience building robust w
 - Maintained legacy systems while aiding the transition to more modern frameworks and architectures.  
 - Collaborate with stakeholders to ensure the design system meets evolving business needs.  
 
----
+--- 
 
 ### **J.B. Hunt Transport Services, Inc.** (Jan 2019 – Nov 2023)  
 **Full Stack Developer**  
@@ -51,15 +67,6 @@ Seasoned full-stack developer with over 25 years of experience building robust w
 - Utilized AI tools (GPT-4) to automate tasks.  
 - Spearheaded code quality and testing efforts.  
 - Mentored junior developers and conducted code reviews.  
-
----
-
-### **Sean Rowe Consulting, LLC** (Jan 2017 – Jan 2019)  
-**Consultant / Developer**  
-- Developed and maintained web applications using React, Vue.js, and Node.js.  
-- Implemented GraphQL APIs for efficient data fetching.  
-- Led code reviews and refactoring efforts.  
-- Integrated Connectwise, Salesforce, and legacy applications in Mulesoft.  
 
 ---
 
