@@ -11,11 +11,26 @@ Tech leader and full-stack developer with 25+ years of experience architecting a
 
 ## Core Technical Skills
 - **Frontend**: React, TypeScript, Next.js, Angular, Jest, Redux, RxJs
-- **Backend**: Node.js, Nest.js, Python, SQL, REST APIs, GraphQL, C#
+- **Backend**: Node.js, Nest.js, Python, SQL, REST APIs, GraphQL, C#, Java Spring
 - **Cloud & DevOps**: AWS, Event-Driven Architecture, Terraform, Docker, CI/CD
 - **Leadership**: Team Leadership, Architecture Design, Code Review, Mentoring
+- **Automation**: Python scripting, Process automation, Tool development
 
 ## Professional Experience
+
+### Southwest Power Pool (Contract)
+**Lead Developer**
+- Developed comprehensive automation scripts using Claude Code to streamline development workflows
+- Created automated pull request workflows for Bitbucket integration
+- Built custom integrations for Confluence documentation management
+- Developed Tempo timesheet automation tools
+- Implemented intelligent scaffolding system that generates new work items from JIRA tickets
+- Led major refactoring initiative upgrading Java Spring framework and modernizing Python scripts
+- Architected and developed an in-house AI coding assistant application using DeepSeek
+- Developed Python interfaces for PSSE and MUST power system analysis tools
+- Created Java integration layer for Enfuzion grid computing platform
+- Migrated UI application to latest React version with modern best practices
+- Enhanced security by removing embedded passwords and implementing secure credential storage
 
 ### Current Contract: Humana (Nov 2023 – Present)
 **Senior Frontend Developer**
