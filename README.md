@@ -18,7 +18,7 @@ Tech leader and full-stack developer with 25+ years of experience architecting a
 
 ## Professional Experience
 
-### Southwest Power Pool (Contract)
+### Southwest Power Pool  (Feb 2025 - Present) ( 
 **Lead Developer**
 - Developed comprehensive automation scripts using Claude Code to streamline development workflows
 - Created automated pull request workflows for Bitbucket integration
@@ -32,7 +32,7 @@ Tech leader and full-stack developer with 25+ years of experience architecting a
 - Migrated UI application to latest React version with modern best practices
 - Enhanced security by removing embedded passwords and implementing secure credential storage
 
-### Current Contract: Humana (Nov 2023 – Present)
+### Current Contract: Humana (Nov 2023 – Feb 2025)
 **Senior Frontend Developer**
 - Working on the Nucleus design system, Humana's web platform built using a web component architecture
 - Developed components in Vue.js (legacy version 5) and Lit (version 6) with TypeScript
@@ -41,7 +41,7 @@ Tech leader and full-stack developer with 25+ years of experience architecting a
 - Maintained legacy systems while aiding the transition to more modern frameworks
 - Collaborate with stakeholders to ensure the design system meets evolving business needs
 
-### Sean Rowe Consulting, LLC (Jan 2017 – Present)
+### Sean Rowe Consulting, LLC (Jan 2017 – Feb 2025)
 **Owner / Technical Lead**
 - Provide development and architectural consulting services to clients across industries
 - Specialize in building modern web applications and migrating legacy systems
