@@ -7,18 +7,19 @@ LinkedIn: linkedin.com/in/hireseanrowe
 GitHub: github.com/seanrowe
 
 ## Professional Summary
-Tech leader and full-stack developer with 25+ years of experience architecting and building enterprise-scale web applications. Proven expertise in React, TypeScript, and cloud-native architectures on AWS. Strong background in event-driven systems and leading cross-functional development teams. Currently pursuing a Master's degree in Computer Science to further enhance technical expertise.
+Senior Full Stack Engineer with 25+ years architecting enterprise-scale applications using Angular, C#/.NET Core, and cloud platforms (GCP/AWS). Proven expertise in automated testing with Cypress/Jest/Mocha, and leading agile development teams. Strong background in healthcare and enterprise systems with focus on scalable microservices architecture.
 
 ## Core Technical Skills
-- **Frontend**: React, TypeScript, Next.js, Angular, Jest, Redux, RxJs
-- **Backend**: Node.js, Nest.js, Python, SQL, REST APIs, GraphQL, C#, Java Spring
-- **Cloud & DevOps**: AWS, Event-Driven Architecture, Terraform, Docker, CI/CD
-- **Leadership**: Team Leadership, Architecture Design, Code Review, Mentoring
-- **Automation**: Python scripting, Process automation, Tool development
+- **Frontend**: Angular 12+, TypeScript, React, Jest, Mocha, Redux, RxJs, Cypress
+- **Backend**: C#/.NET Core, Node.js, Python, REST APIs, GraphQL, Microservices
+- **Databases**: MongoDB, PostgreSQL, SQL Server, Redis, DB2
+- **Cloud & DevOps**: Google Cloud Platform (GCP), AWS, Azure, Docker, Kubernetes, CI/CD
+- **Testing**: Cypress, Jest, Mocha, Jasmine, Karma, Selenium, BDD/Gherkin
+- **Leadership**: Architecture Design, Agile/Scrum, Code Review, Mentoring
 
 ## Professional Experience
 
-### Southwest Power Pool  (Feb 2025 - Present)
+### Southwest Power Pool (Feb 2025 - Present)
 **Lead Developer**
 - Developed comprehensive automation scripts using Claude Code to streamline development workflows
 - Created automated pull request workflows for Bitbucket integration
@@ -32,7 +33,7 @@ Tech leader and full-stack developer with 25+ years of experience architecting a
 - Migrated UI application to latest React version with modern best practices
 - Enhanced security by removing embedded passwords and implementing secure credential storage
 
-### Aflac (Nov 23 - May 24)
+### Aflac (Nov 2023 - May 2024)
 **Senior Developer**
 - Developed and maintained enterprise-level Angular applications for insurance domain functionality
 - Translated business requirements from Jira tickets into production-ready Angular components and services
@@ -116,6 +117,8 @@ Tech leader and full-stack developer with 25+ years of experience architecting a
 - Documented existing application and gathered new requirements using Gherkin
 - Developed new frontend application in React and backend in PHP/Symfony
 - Implemented comprehensive test coverage using behavior-driven development
+- Designed MongoDB schemas for flexible clinical trial data structures and patient records
+- Utilized MongoDB aggregation pipelines for research data analysis and reporting
 
 **NATIONAL MERCHANTS ASSOCIATION**
 - Transitioned legacy application to Angular
@@ -124,6 +127,8 @@ Tech leader and full-stack developer with 25+ years of experience architecting a
 - Engineered data collection workflows
 - Developed backend services using Nest.js
 - Segregated presentation components from page components
+- Implemented MongoDB for transaction logging and merchant profile data with varying structures
+- Created real-time fraud detection patterns using MongoDB change streams
 
 ### J.B. Hunt Transport Services, Inc. (Jan 2019 – Nov 2023)
 **Software Engineer III**
@@ -153,7 +158,7 @@ Tech leader and full-stack developer with 25+ years of experience architecting a
 - Provided AngularJS training to junior developers
 - Refactored backend code for improved efficiency
 
-### Afgusa Llc (Jan 2014 – Jan 2015)
+### Afgusa LLC (Jan 2014 – Jan 2015)
 **Senior Developer**
 - Implemented Bootstrap 3 and refactored legacy ASP.NET code into AngularJS
 - Developed C# RESTful services and AngularJS directives
@@ -188,8 +193,8 @@ Tech leader and full-stack developer with 25+ years of experience architecting a
 - Authored SQL scripts for DB2 database management
 
 ## Education
-- Master of Science in Computer Science (In Progress)
-- Bachelor of Science in Computer Science University of Arkansas at Little Rock
+- **Master of Science in Computer Science** - University of Arkansas at Little Rock (In Progress)
+- **Bachelor of Science in Computer Science** - University of Arkansas at Little Rock (May 2002)
 
 ## Certifications
 - Career Essentials in Software Development by Microsoft and LinkedIn
