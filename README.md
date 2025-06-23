@@ -18,7 +18,7 @@ Tech leader and full-stack developer with 25+ years of experience architecting a
 
 ## Professional Experience
 
-### Southwest Power Pool  (Feb 2025 - Present) ( 
+### Southwest Power Pool  (Feb 2025 - Present)
 **Lead Developer**
 - Developed comprehensive automation scripts using Claude Code to streamline development workflows
 - Created automated pull request workflows for Bitbucket integration
@@ -32,14 +32,32 @@ Tech leader and full-stack developer with 25+ years of experience architecting a
 - Migrated UI application to latest React version with modern best practices
 - Enhanced security by removing embedded passwords and implementing secure credential storage
 
-### Current Contract: Humana (Nov 2023 – Feb 2025)
-**Senior Frontend Developer**
-- Working on the Nucleus design system, Humana's web platform built using a web component architecture
-- Developed components in Vue.js (legacy version 5) and Lit (version 6) with TypeScript
-- Played a key role in raising code coverage to over 80% by extracting component behaviors into Gherkin
-- Built reusable, scalable, and standards-compliant web components native to modern JavaScript
-- Maintained legacy systems while aiding the transition to more modern frameworks
-- Collaborate with stakeholders to ensure the design system meets evolving business needs
+### Aflac (Nov 23 - May 24)
+**Senior Developer**
+- Developed and maintained enterprise-level Angular applications for insurance domain functionality
+- Translated business requirements from Jira tickets into production-ready Angular components and services
+- Implemented responsive UI components using Angular Material and TypeScript
+- Integrated RESTful APIs for data exchange between frontend and backend systems
+- Ensured code quality through adherence to Angular style guides and best practices
+- Wrote comprehensive unit tests using Jasmine and Karma frameworks
+- Achieved high code coverage targets for all developed features
+- Implemented automated testing strategies to catch regressions early
+- Participated in code reviews to maintain code quality standards
+- Collaborated with cross-functional team to define technical requirements for Angular framework upgrade
+- Analyzed existing codebase to identify refactoring opportunities and migration paths
+- Contributed to architectural decisions for scalable and maintainable solutions
+- Documented upgrade strategies and potential breaking changes
+- Mentored junior developers on Angular best practices and design patterns
+- Conducted code reviews providing constructive feedback for skill development
+- Shared knowledge through pair programming sessions
+- Helped establish coding standards and development workflows for the team
+- Participated in Agile ceremonies including sprint planning, daily standups, and retrospectives
+- Collaborated with product owners to clarify requirements and acceptance criteria
+- Delivered features within sprint timelines while maintaining code quality
+- Communicated technical constraints and solutions to non-technical stakeholders
+
+### Fortira Inc (Jul 2022 - June 2023)
+- Continued working with Granite through a different vendor
 
 ### Sean Rowe Consulting, LLC (Jan 2017 – Feb 2025)
 **Owner / Technical Lead**
@@ -49,6 +67,14 @@ Tech leader and full-stack developer with 25+ years of experience architecting a
 - Developed and maintained web applications using React, Angular, Vue.js, and Node.js
 - Implemented GraphQL APIs for efficient data fetching
 - Led code reviews and refactoring efforts
+
+**Humana (Nov 2023 – Feb 2025)**
+- Worked on the Nucleus design system, Humana's web platform built using a web component architecture
+- Developed components in Vue.js (legacy version 5) and Lit (version 6) with TypeScript
+- Played a key role in raising code coverage to over 80% by extracting component behaviors into Gherkin
+- Built reusable, scalable, and standards-compliant web components native to modern JavaScript
+- Maintained legacy systems while aiding the transition to more modern frameworks
+- Collaborate with stakeholders to ensure the design system meets evolving business needs
 
 **ArcBest (Aug 2023 – Oct 2023)**
 - Led the migration from Vue 2 to Vue 3 with Nuxt for server-side rendering
