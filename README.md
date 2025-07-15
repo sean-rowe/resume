@@ -10,8 +10,8 @@ GitHub: github.com/seanrowe
 Senior Full Stack Engineer with 25+ years architecting enterprise-scale applications using Angular, C#/.NET Core, and cloud platforms (GCP/AWS). Proven expertise in automated testing with Cypress/Jest/Mocha, and leading agile development teams. Strong background in healthcare and enterprise systems with focus on scalable microservices architecture.
 
 ## Core Technical Skills
-- **Frontend**: Angular 12+, TypeScript, React, Jest, Mocha, Redux, RxJs, Cypress
-- **Backend**: C#/.NET Core, Node.js, Python, REST APIs, GraphQL, Microservices
+- **Frontend**: Angular 17+, TypeScript, React, Jest, Mocha, Redux, RxJs, Cypress
+- **Backend**: C#/.NET Core 8+, Node.js, Python, REST APIs, GraphQL, Microservices
 - **Databases**: MongoDB, PostgreSQL, SQL Server, Redis, DB2
 - **Cloud & DevOps**: Google Cloud Platform (GCP), AWS, Azure, Docker, Kubernetes, CI/CD
 - **Testing**: Cypress, Jest, Mocha, Jasmine, Karma, Selenium, BDD/Gherkin
