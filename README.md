@@ -11,10 +11,10 @@ Senior Full Stack Engineer with 25+ years architecting enterprise-scale applicat
 
 ## Core Technical Skills
 - **Frontend**: Angular 17+, TypeScript, React, Jest, Mocha, Redux, RxJs, Cypress
-- **Backend**: C#/.NET Core 8+, Node.js, Python, REST APIs, GraphQL, Microservices
-- **Databases**: MongoDB, PostgreSQL, SQL Server, Redis, DB2
+- **Backend**: C#/.NET Core 8+, Node.js, Python, Java / SpringBoot, REST APIs, GraphQL, Microservices
+- **Databases**: MongoDB, PostgreSQL, SQL Server, Redis, DB2, MySQL
 - **Cloud & DevOps**: Google Cloud Platform (GCP), AWS, Azure, Docker, Kubernetes, CI/CD
-- **Testing**: Cypress, Jest, Mocha, Jasmine, Karma, Selenium, BDD/Gherkin
+- **Testing**: Cypress, Jest, Mocha, Jasmine, Karma, Selenium, BDD/Gherkin, SpecFlow, Cucumber
 - **Leadership**: Architecture Design, Agile/Scrum, Code Review, Mentoring
 
 ## Professional Experience
