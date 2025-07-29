@@ -203,6 +203,3 @@ Senior Full Stack Engineer with 25+ years architecting enterprise-scale applicat
 
 ## Certifications
 - Career Essentials in Software Development by Microsoft and LinkedIn
-- Certified Scrum Master
-- OKTA Certified Administrator (In Progress)
-- Identity and Access Management Professional Certification (In Progress)
