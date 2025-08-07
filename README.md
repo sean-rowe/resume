@@ -66,9 +66,11 @@ Senior Full Stack Engineer with 25+ years architecting enterprise-scale applicat
 ### J.B. Hunt Transport Services, Inc. (Jan 2019 – Nov 2023)
 **Software Engineer III** *(Direct W2)*
 - Led the migration of legacy applications to Angular 12+ with enhanced security features
+- Coordinated frontend asset migration from Azure to Google Cloud Platform, optimizing static content delivery through Cloud CDN
 - Implemented comprehensive identity and access management solutions using OIDC protocols
 - Administered OKTA identity provider for enterprise-wide authentication and authorization
 - Designed and implemented SAML2 assertion handling for federated identity management
+- Collaborated with DevOps teams on frontend build pipeline migration to Google Cloud Build for improved deployment efficiency
 - Implemented Cypress for end-to-end testing and improved test coverage focusing on authentication flows
 - Applied common design patterns for modular, decoupled, and scalable application architecture
 - Collaborated with cross-functional teams to deliver complex features with attention to technical and visual detail
