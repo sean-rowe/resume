@@ -7,7 +7,7 @@ LinkedIn: linkedin.com/in/hireseanrowe
 GitHub: github.com/seanrowe
 
 ## Professional Summary
-Senior Full Stack Engineer with 25+ years architecting enterprise-scale applications using Angular, C#/.NET Core, and cloud platforms (GCP/AWS). Proven expertise in Identity & Access Management platform creation and administration, including OIDC and SAML2 implementation. Strong background in automated testing with Cypress/Jest/Mocha, leading agile development teams, and implementing secure authentication solutions across healthcare and enterprise systems with focus on scalable microservices architecture.
+Senior Full Stack Engineer with 25+ years architecting enterprise-scale applications using React / Java with SpringBoot, and cloud platforms (GCP/AWS/Azure). Proven expertise in Identity & Access Management platform creation and administration, including OIDC and SAML2 implementation. Strong background in automated testing with Cypress/Jest/Mocha, leading agile development teams, and implementing secure authentication solutions across healthcare and enterprise systems with focus on scalable microservices architecture.
 
 ## Core Technical Skills
 - **Frontend**: Angular 17+, TypeScript, React, Redux, RxJs, Vue, Lit, Web Components
