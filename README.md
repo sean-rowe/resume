@@ -16,21 +16,21 @@ Senior Full Stack Architect with over 25 years of hands-on experience designing 
 
 ## Core Technical Skills
 
-**Frontend:** React, Next.js (SSR/SSG), Angular, TypeScript, RxJS, Redux, Tailwind CSS, Web Components, D3.js, Chart.js
+**Frontend:** React, Next.js, Angular, TypeScript, RxJS, Redux, Tailwind CSS, Web Components, D3.js, Chart.js
 
-**Backend / API Development:** Node.js, Express.js, GraphQL (Apollo Server/Client), NestJS, TypeScript, Prisma ORM, Java (Spring Boot), C#/.NET Core, Python (FastAPI)
+**Backend / API Development:** Node.js, Express.js, GraphQL, Apollo Server, Apollo Client, NestJS, TypeScript, Prisma ORM, Java, Spring Boot, C#, .NET Core, Python, FastAPI
 
-**Databases:** PostgreSQL, Prisma (migrations, type-safe queries), SQL Server, MongoDB, MySQL, Redis
+**Databases:** PostgreSQL, Prisma, SQL Server, MongoDB, MySQL, Redis
 
-**Cloud & DevOps:** Azure (App Service, Functions, SQL Database, Blob Storage, API Management), AWS (ECS, Lambda, RDS, S3), Docker, Kubernetes, Terraform, CI/CD
+**Cloud & DevOps:** Azure, App Service, Functions, SQL Database, Blob Storage, AWS, API Management, ECS, Lambda, RDS, S3, Docker, Kubernetes, Terraform, CI/CD
 
-**Identity & Security:** OIDC, OAuth 2.0, JWT, SAML2, Okta, AWS Cognito, Azure AD (Microsoft Entra ID)
+**Identity & Security:** OIDC, OAuth 2.0, JWT, SAML2, Okta, AWS Cognito, Azure AD 
 
-**Testing:** Jasmine, Karma, Jest, Cypress, Supertest, Mocha, BDD (Gherkin/Cucumber)
+**Testing:** Jasmine, Karma, Jest, Cypress, Supertest, Mocha, BDD, Gherkin, Cucumber
 
-**Analytics / Platforms:** MicroStrategy (Embedded Analytics), Enterprise Data Platforms (EDP)
+**Analytics / Platforms:** MicroStrategy, EDP
 
-**Leadership & Delivery:** Architecture Design, Agile/Scrum, Code Reviews, Mentoring, Production Support
+**Leadership & Delivery:** Architecture Design, Agile, Code Reviews, Mentoring, Production Support
 
 ---
 
@@ -41,12 +41,12 @@ Senior Full Stack Architect with over 25 years of hands-on experience designing 
 
 - Designed the integration architecture for MicroStrategy embedded analytics within engineering simulation workflows, defining component boundaries, data flow patterns, and drill-down navigation strategies.
 - Architected React-based dashboard interfaces for simulation monitoring, establishing component composition patterns, state management strategies, and TypeScript conventions for type-safe development.
-- **Designed GraphQL API layer using Node.js and Apollo Server to unify disparate simulation data sources, defining schema design patterns, resolver architecture, and query optimization strategies including DataLoader for N+1 prevention.**
-- **Built reference implementation of the Node.js/Apollo Server GraphQL gateway to validate architecture decisions before handoff to development teams; included DataLoader patterns and subscription infrastructure for real-time updates.**
+- Designed GraphQL API layer using Node.js and Apollo Server to unify disparate simulation data sources, defining schema design patterns, resolver architecture, and query optimization strategies including DataLoader for N+1 prevention.
+- Built reference implementation of the Node.js/Apollo Server GraphQL gateway to validate architecture decisions before handoff to development teams; included DataLoader patterns and subscription infrastructure for real-time updates.
 - Architected the data publishing pipeline from simulation engines to the Enterprise Data Platform (EDP), establishing API contract standards, batching strategies, pagination schemes, and payload optimization guidelines.
 - Defined the data persistence architecture using PostgreSQL for reporting datasets and introduced Redis caching patterns for high-frequency endpoints to reduce backend load and improve response times.
 - Established authentication and authorization architecture using OIDC (OAuth 2.0) with JWT validation, defining token lifecycle management, claims/roles enforcement, and credential rotation strategies to eliminate hardcoded secrets.
-- **Built Docker images and Kubernetes deployment manifests for reference services; established baseline configurations for ingress, config maps, secrets management, health probes, and horizontal pod autoscaling used as templates across development teams.**
+- Built Docker images and Kubernetes deployment manifests for reference services; established baseline configurations for ingress, config maps, secrets management, health probes, and horizontal pod autoscaling used as templates across development teams.
 - Architected CI/CD pipeline standards incorporating Jasmine/Karma unit testing gates, container build workflows, and promotion strategies across Azure environments.
 - Designed Python-based automation services and FastAPI endpoint patterns for simulation pipeline orchestration, establishing conventions for job management and status reporting to downstream consumers.
 - Provided architectural guidance for React UI modernization efforts, ensuring integration compatibility with GraphQL and REST backend services and alignment with platform standards.
@@ -59,7 +59,7 @@ Senior Full Stack Architect with over 25 years of hands-on experience designing 
 
 - Developed and maintained enterprise Angular applications using TypeScript, RxJS, Angular Material, and SASS/CSS3 for consistent UI patterns.
 - Implemented RESTful integrations between Angular UI and Spring Boot APIs supporting authentication and business workflows; standardized validation and error handling.
-- **Developed Node.js/Express.js BFF (Backend-for-Frontend) service to aggregate and reshape Spring Boot API responses for Angular consumption, avoiding pollution of domain APIs with frontend-specific endpoints.**
+- Developed Node.js/Express.js BFF (Backend-for-Frontend) service to aggregate and reshape Spring Boot API responses for Angular consumption, avoiding pollution of domain APIs with frontend-specific endpoints.
 - Integrated Okta-based SSO using OIDC (OAuth 2.0) and SAML2; enforced JWT-based API authorization/validation across frontend-to-backend flows.
 - Supported production issues involving backend API failures and identity-related defects; improved diagnostics and remediation playbooks.
 - Built and optimized PostgreSQL and SQL Server-backed workflows (search/pagination/filtering) and introduced Redis caching for high-read data where appropriate.
@@ -73,13 +73,13 @@ Senior Full Stack Architect with over 25 years of hands-on experience designing 
 **Jan 2019 – Nov 2023**
 
 - Embedded MicroStrategy analytics into Angular and React pricing applications using backend Java Spring Boot APIs, including parameterized drill-downs and authorization alignment.
-- **Architected GraphQL API gateway using Node.js and Apollo Server to aggregate pricing, rating, and customer data from multiple microservices, reducing frontend round-trips and improving developer experience.**
+- Architected GraphQL API gateway using Node.js and Apollo Server to aggregate pricing, rating, and customer data from multiple microservices, reducing frontend round-trips and improving developer experience.
 - Designed GraphQL schema patterns for complex pricing domain models, implementing custom scalars, union types, and interface inheritance for type-safe query resolution.
 - Integrated Enterprise Data Platform (EDP) services through Java-based microservices to source governed datasets and expose both REST and GraphQL APIs for downstream consumers.
 - Built reusable React component libraries for pricing dashboards using TypeScript, implementing custom hooks for GraphQL subscription handling and real-time rate updates.
-- **Implemented D3.js and Chart.js visualizations for pricing distribution analysis and shipment volume trends within React dashboards.**
+- Implemented D3.js and Chart.js visualizations for pricing distribution analysis and shipment volume trends within React dashboards.
 - Built reusable backend service components supporting pricing, reporting, and authorization logic; implemented PostgreSQL and SQL Server persistence and Redis caching for high-traffic endpoints.
-- **Built Docker images and Kubernetes deployments for Node.js GraphQL services with ingress configuration, config maps, and secrets management.**
+- Built Docker images and Kubernetes deployments for Node.js GraphQL services with ingress configuration, config maps, and secrets management.
 - Implemented OIDC (OAuth 2.0) authentication and federated identity flows across UI and backend services; administered Okta and supported SAML-based integrations with Azure AD.
 - Implemented JWT validation patterns across services and integrated enterprise identity requirements (including Microsoft Entra ID / Azure AD federation where required).
 - Implemented Cypress testing focused on frontend-to-backend authentication flows; expanded coverage with Jasmine/Karma unit tests and BDD scenarios (Gherkin/Cucumber).
