@@ -1,8 +1,10 @@
 # Sean Rowe
 **Senior Full Stack Developer / Software Architect**
 
-Email: sean@seanrowe.com | Phone: (501) 316-6521
-LinkedIn: https://linkedin.com/in/hireseanrowe | GitHub: https://github.com/sean-rowe
+Email: sean@seanrowe.com  
+Phone: (501) 316-6521  
+LinkedIn: https://linkedin.com/in/hireseanrowe  
+GitHub: https://github.com/sean-rowe
 
 ---
 
