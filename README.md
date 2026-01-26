@@ -22,7 +22,7 @@ Senior Full Stack Architect with over 25 years of hands-on experience designing 
 
 **Databases:** PostgreSQL, SQL Server, MongoDB, MySQL, Redis
 
-**Cloud & DevOps:** Azure, App Service, Functions, SQL Database, Blob Storage, AWS, API Management, ECS, Lambda, RDS, S3, Docker, Kubernetes, Terraform, CI/CD
+**Cloud & DevOps:** Azure, App Service, SQL Database, Blob Storage, AWS, API Management, ECS, Lambda, RDS, S3, Docker, Kubernetes, Terraform, CI/CD
 
 **Identity & Security:** OIDC, OAuth 2.0, JWT, SAML2, Okta, AWS Cognito, Azure AD 
 
