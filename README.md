@@ -18,9 +18,9 @@ Senior Full Stack Architect with over 25 years of hands-on experience designing 
 
 **Frontend:** React, Next.js, Angular, TypeScript, RxJS, Redux, Tailwind CSS, Web Components, D3.js, Chart.js
 
-**Backend / API Development:** Node.js, Express.js, GraphQL, Apollo Server, Apollo Client, NestJS, TypeScript, Prisma ORM, Java, Spring Boot, C#, .NET Core, Python, FastAPI
+**Backend / API Development:** Node.js, Express.js, GraphQL, Apollo Server, Apollo Client, NestJS, TypeScript, Prisma, Java, Spring Boot, C#, .NET Core, Python, FastAPI
 
-**Databases:** PostgreSQL, Prisma, SQL Server, MongoDB, MySQL, Redis
+**Databases:** PostgreSQL, SQL Server, MongoDB, MySQL, Redis
 
 **Cloud & DevOps:** Azure, App Service, Functions, SQL Database, Blob Storage, AWS, API Management, ECS, Lambda, RDS, S3, Docker, Kubernetes, Terraform, CI/CD
 
