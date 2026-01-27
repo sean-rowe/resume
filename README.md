@@ -16,23 +16,21 @@ Senior Full Stack Architect with over 25 years of hands-on experience designing 
 
 ## Core Technical Skills
 
-**Frontend:** React, Next.js, Angular, TypeScript, RxJS, Redux, Tailwind CSS, Web Components, D3.js, Chart.js
+**Frontend:** React, Next.js, Angular, TypeScript, RxJS, Redux, Angular Material, SASS/CSS3, D3.js, Chart.js, Storybook
 
-**Backend / API Development:** Node.js, Express.js, GraphQL, Apollo Server, Apollo Client, NestJS, TypeScript, Prisma ORM, Java, Spring Boot, C#, .NET Core, Python, FastAPI
+**Backend / API Development:** Node.js, Express.js, GraphQL, Apollo Server, Apollo Client, NestJS, TypeScript, Prisma, Java, Spring Boot, C#, .NET Core, Python, FastAPI, PHP, Laravel
 
-**Databases:** PostgreSQL, Prisma, SQL Server, MongoDB, MySQL, Redis
+**Databases:** PostgreSQL, SQL Server, MongoDB, MySQL, Redis
 
 **Cloud & DevOps:** Azure, App Service, Functions, SQL Database, Blob Storage, AWS, API Management, ECS, Lambda, RDS, S3, Docker, Kubernetes, Terraform, CI/CD
 
-**Identity & Security:** OIDC, OAuth 2.0, JWT, SAML2, Okta, AWS Cognito, Azure AD 
+**Identity & Security:** OIDC, OAuth 2.0, JWT, SAML2, Okta, AWS Cognito, Azure AD
 
-**Testing:** Jasmine, Karma, Jest, Cypress, Supertest, Mocha, BDD, Gherkin, Cucumber
+**Testing:** Jasmine, Karma, Jest, Cypress, Supertest, Mocha, Selenium, BDD, Gherkin, Cucumber
 
 **Analytics / Platforms:** MicroStrategy, EDP
 
 **Leadership & Delivery:** Architecture Design, Agile, Code Reviews, Mentoring, Production Support
-
----
 
 ## Professional Experience
 
