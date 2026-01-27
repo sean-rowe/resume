@@ -16,23 +16,21 @@ Senior Full Stack Architect with over 25 years of hands-on experience designing 
 
 ## Core Technical Skills
 
-**Frontend:** React, Next.js, Angular, TypeScript, RxJS, Redux, Tailwind CSS, Web Components, D3.js, Chart.js
+**Frontend:** React, Next.js, Angular, TypeScript, RxJS, Redux, Angular Material, SASS/CSS3, D3.js, Chart.js, Storybook
 
-**Backend / API Development:** Node.js, Express.js, GraphQL, Apollo Server, Apollo Client, NestJS, TypeScript, Prisma ORM, Java, Spring Boot, C#, .NET Core, Python, FastAPI
+**Backend / API Development:** Node.js, Express.js, GraphQL, Apollo Server, Apollo Client, NestJS, TypeScript, Prisma, Java, Spring Boot, C#, .NET Core, Python, FastAPI, PHP, Laravel
 
-**Databases:** PostgreSQL, Prisma, SQL Server, MongoDB, MySQL, Redis
+**Databases:** PostgreSQL, SQL Server, MongoDB, MySQL, Redis
 
 **Cloud & DevOps:** Azure, App Service, Functions, SQL Database, Blob Storage, AWS, API Management, ECS, Lambda, RDS, S3, Docker, Kubernetes, Terraform, CI/CD
 
-**Identity & Security:** OIDC, OAuth 2.0, JWT, SAML2, Okta, AWS Cognito, Azure AD 
+**Identity & Security:** OIDC, OAuth 2.0, JWT, SAML2, Okta, AWS Cognito, Azure AD
 
-**Testing:** Jasmine, Karma, Jest, Cypress, Supertest, Mocha, BDD, Gherkin, Cucumber
+**Testing:** Jasmine, Karma, Jest, Cypress, Supertest, Mocha, Selenium, BDD, Gherkin, Cucumber
 
 **Analytics / Platforms:** MicroStrategy, EDP
 
 **Leadership & Delivery:** Architecture Design, Agile, Code Reviews, Mentoring, Production Support
-
----
 
 ## Professional Experience
 
@@ -40,7 +38,7 @@ Senior Full Stack Architect with over 25 years of hands-on experience designing 
 **Feb 2025 – Jun 2025**
 
 - Designed the integration architecture for MicroStrategy embedded analytics within engineering simulation workflows, defining component boundaries, data flow patterns, and drill-down navigation strategies.
-- Architected React-based dashboard interfaces for simulation monitoring, establishing component composition patterns, state management strategies, and TypeScript conventions for type-safe development.
+- Architected React-based dashboard interfaces for simulation monitoring, establishing component composition patterns, Redux state management, and TypeScript conventions for type-safe development.
 - Designed GraphQL API layer using Node.js and Apollo Server to unify disparate simulation data sources, defining schema design patterns, resolver architecture, and query optimization strategies including DataLoader for N+1 prevention.
 - Built reference implementation of the Node.js/Apollo Server GraphQL gateway to validate architecture decisions before handoff to development teams; included DataLoader patterns and subscription infrastructure for real-time updates.
 - Architected the data publishing pipeline from simulation engines to the Enterprise Data Platform (EDP), establishing API contract standards, batching strategies, pagination schemes, and payload optimization guidelines.
@@ -76,7 +74,7 @@ Senior Full Stack Architect with over 25 years of hands-on experience designing 
 - Architected GraphQL API gateway using Node.js and Apollo Server to aggregate pricing, rating, and customer data from multiple microservices, reducing frontend round-trips and improving developer experience.
 - Designed GraphQL schema patterns for complex pricing domain models, implementing custom scalars, union types, and interface inheritance for type-safe query resolution.
 - Integrated Enterprise Data Platform (EDP) services through Java-based microservices to source governed datasets and expose both REST and GraphQL APIs for downstream consumers.
-- Built reusable React component libraries for pricing dashboards using TypeScript, implementing custom hooks for GraphQL subscription handling and real-time rate updates.
+- Built reusable React component libraries for pricing dashboards using TypeScript and Redux, implementing custom hooks for GraphQL subscription handling and real-time rate updates.
 - Implemented D3.js and Chart.js visualizations for pricing distribution analysis and shipment volume trends within React dashboards.
 - Built reusable backend service components supporting pricing, reporting, and authorization logic; implemented PostgreSQL and SQL Server persistence and Redis caching for high-traffic endpoints.
 - Built Docker images and Kubernetes deployments for Node.js GraphQL services with ingress configuration, config maps, and secrets management.
@@ -93,34 +91,34 @@ Senior Full Stack Architect with over 25 years of hands-on experience designing 
 **Jan 2018 – Jan 2019**
 
 **Humana**
-- Built a React-based component design system using TypeScript, shipping reusable UI components with Storybook documentation across multiple applications.
+- Built a React-based component design system using TypeScript and Redux, shipping reusable UI components with Storybook documentation across multiple applications.
 - **Implemented GraphQL BFF (Backend-for-Frontend) layer using Node.js and Apollo Server to aggregate healthcare data APIs, defining schema stitching patterns and federated graph architecture.**
 - Expanded automated test coverage with Jest, Jasmine, and Cypress; added BDD acceptance coverage using Cucumber/Gherkin for critical UI behaviors.
 - Integrated secure authentication flows using OIDC (OAuth 2.0) and JWT-based authorization for GraphQL and REST backend service calls.
 
 **ArcBest**
-- **Modernized backend services to NestJS with TypeScript during platform migration; implemented Prisma ORM for PostgreSQL data access with type-safe query builders.**
-- **Architected GraphQL API using NestJS GraphQL module with code-first schema generation, implementing resolver patterns, guards, and interceptors for cross-cutting concerns.**
+- Modernized backend services to NestJS with TypeScript during platform migration; implemented Prisma ORM for PostgreSQL data access with type-safe query builders.
+- Architected GraphQL API using NestJS GraphQL module with code-first schema generation, implementing resolver patterns, guards, and interceptors for cross-cutting concerns.
 - Deployed services to Azure using App Service and Azure SQL Database; implemented OAuth 2.0/OIDC patterns with JWT validation across service boundaries.
-- **Containerized services with Docker and delivered changes via Azure DevOps CI/CD pipelines with automated Jasmine/Karma test gates.**
+- Containerized services with Docker and delivered changes via Azure DevOps CI/CD pipelines with automated Jasmine/Karma test gates.
 
 **GRANITE — MuleSoft / Guardian / GUCAAS**
-- **Developed NestJS microservices with Prisma ORM connecting to PostgreSQL; implemented both REST and GraphQL API integrations with secure OAuth 2.0/JWT authentication.**
-- **Designed GraphQL subscription architecture for real-time policy status updates using WebSocket transport and Redis pub/sub for horizontal scaling.**
+- Developed NestJS microservices with Prisma ORM connecting to PostgreSQL; implemented both REST and GraphQL API integrations with secure OAuth 2.0/JWT authentication.
+- Designed GraphQL subscription architecture for real-time policy status updates using WebSocket transport and Redis pub/sub for horizontal scaling.
 - Built regression automation using Cypress and BDD suites (Cucumber/Gherkin), running in CI/CD for release confidence.
-- **Standardized API contracts and error handling patterns across Java/Spring Boot, C#/.NET Core, and Node.js services.**
+- Standardized API contracts and error handling patterns across Java/Spring Boot, C#/.NET Core, and Node.js services.
 
 **DSE**
-- **Led delivery of React frontend with Next.js SSR/SSG and NestJS backend services supporting secure form-driven workflows.**
-- **Implemented GraphQL API with Apollo Server for complex form submission workflows, using input validation directives and custom error formatting.**
+- Led delivery of React frontend with Next.js SSR/SSG and NestJS backend services supporting secure form-driven workflows.
+- Implemented GraphQL API with Apollo Server for complex form submission workflows, using input validation directives and custom error formatting.
 - Implemented Prisma ORM with PostgreSQL for data persistence; built type-safe API contracts between React frontend and GraphQL backend.
 - Integrated OIDC SSO with JWT authorization and role-based access controls; added Jest/Jasmine unit tests and Cypress E2E coverage.
 
 **COMPTIA / IQVIA / National Merchants Association**
-- **Developed NestJS backend services with Prisma and PostgreSQL for enterprise-scale applications, exposing both REST and GraphQL endpoints.**
+- Developed NestJS backend services with Prisma and PostgreSQL for enterprise-scale applications, exposing both REST and GraphQL endpoints.
 - Built React admin dashboards with Apollo Client for GraphQL data fetching, implementing optimistic updates and cache normalization strategies.
-- **Provisioned Azure infrastructure (App Service, Azure SQL, Blob Storage) with Terraform; deployed containerized services to Kubernetes with automated CI/CD pipelines.**
-- **Supported MongoDB-backed applications with secure access models, data validation, and operational logging patterns.**
+- Provisioned Azure infrastructure (App Service, Azure SQL, Blob Storage) with Terraform; deployed containerized services to Kubernetes with automated CI/CD pipelines.
+- Supported MongoDB-backed applications with secure access models, data validation, and operational logging patterns.
 
 ---
 
@@ -128,7 +126,7 @@ Senior Full Stack Architect with over 25 years of hands-on experience designing 
 **Oct 2016 – Jan 2018**
 
 - Developed React and Angular-based UI components integrated with backend Java and C#/.NET Core services via REST APIs.
-- **Built Node.js/Express.js middleware layer for API response transformation and caching between frontend applications and legacy backend services.**
+- Built Node.js/Express.js middleware layer for API response transformation and caching between frontend applications and legacy backend services.
 - Authored backend logic supporting CRUD operations and access control; standardized request/response contracts.
 - Implemented secure authentication mechanisms across application tiers and built shared libraries for authentication/session handling.
 - Implemented Cypress E2E automation, Jasmine/Karma unit tests, and BDD-style acceptance coverage (Gherkin/Cucumber) for critical workflows.
@@ -141,7 +139,7 @@ Senior Full Stack Architect with over 25 years of hands-on experience designing 
 
 - Led AngularJS and early React UI development and coordinated backend API integration using JavaScript/TypeScript with SASS/CSS styling.
 - Developed backend endpoints using PHP/Laravel with secure authentication layers and backend validation services.
-- **Developed Node.js services for real-time ad performance event ingestion and webhook processing, complementing the primary PHP/Laravel backend.**
+- Developed Node.js services for real-time ad performance event ingestion and webhook processing, complementing the primary PHP/Laravel backend.
 - Integrated payment processing systems and implemented secure request validation and error-handling patterns across services.
 - Implemented automated tests using Jasmine, Karma (AngularJS), and Mocha-based testing patterns for backend and integration logic.
 - Guided developers on frontend-backend interaction patterns, security practices, and Agile/Scrum delivery.
@@ -153,7 +151,7 @@ Senior Full Stack Architect with over 25 years of hands-on experience designing 
 
 - Refactored legacy ASP.NET MVC (.NET Framework/C#) applications to AngularJS with backend service integration.
 - Developed RESTful services and implemented authorization logic; standardized access control and request validation.
-- **Worked with MySQL and PostgreSQL-backed persistence and improved performance and reliability of key workflows.**
+- Worked with MySQL and PostgreSQL-backed persistence and improved performance and reliability of key workflows.
 - Implemented Jasmine/Karma-driven AngularJS tests and improved regression coverage for critical UI flows.
 - Guided Agile adoption and code review practices across the team.
 
@@ -164,16 +162,16 @@ Senior Full Stack Architect with over 25 years of hands-on experience designing 
 
 - Transitioned legacy systems to MVC architecture with improved backend security and maintainability.
 - Developed backend services and data access layers; improved separation of concerns and service boundaries.
-- **Delivered UI enhancements using jQuery/CSS and maintained PHP-based backend services (including Laravel where used) backed by MySQL.**
-- **Built Node.js utility scripts for log aggregation and deployment automation, supplementing existing shell-based tooling.**
-- **Standardized development environments using Docker to reduce configuration drift and improve onboarding speed.**
+- Delivered UI enhancements using jQuery/CSS and maintained PHP-based backend services (including Laravel where used) backed by MySQL.
+- Built Node.js utility scripts for log aggregation and deployment automation, supplementing existing shell-based tooling.
+- Standardized development environments using Docker to reduce configuration drift and improve onboarding speed.
 
 ---
 
 ### Greystone — Senior Developer
 **Jan 2009 – Jan 2012**
 
-- **Modernized PHP/MySQL applications and backend services; refactored backend logic using established design patterns.**
+- Modernized PHP/MySQL applications and backend services; refactored backend logic using established design patterns.
 - Built UI behavior using JavaScript and jQuery; improved responsiveness and maintainability.
 - Implemented Selenium regression testing for critical workflows and improved release confidence.
 - Improved cross-browser layout/styling using CSS3.
@@ -185,7 +183,7 @@ Senior Full Stack Architect with over 25 years of hands-on experience designing 
 
 - Developed Java-based applications using JSP and XSLT for publishing/content workflows.
 - Implemented secure backend authentication and data access logic.
-- **Designed and optimized SQL interactions and data models (MySQL) supporting content and metadata management.**
+- Designed and optimized SQL interactions and data models (MySQL) supporting content and metadata management.
 - Implemented XML/XSLT transformation pipelines and maintained styling/templates with CSS3.
 
 ---
