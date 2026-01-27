@@ -26,13 +26,13 @@ Senior Full Stack Architect with over 25 years of hands-on experience designing 
 
 **Identity & Security:** OIDC, OAuth 2.0, JWT, SAML2, Okta, AWS Cognito, Azure AD
 
-**Testing:** Jasmine, Karma, Jest, Cypress, Supertest, Mocha, Selenium, BDD, Gherkin, Cucumber
+**Testing:** Jasmine, Karma, Jest, Cypress, Mocha, Selenium, BDD, Gherkin, Cucumber
 
 **Analytics / Platforms:** MicroStrategy, EDP
 
 **Leadership & Delivery:** Architecture Design, Agile, Code Reviews, Mentoring, Production Support
 
-## Professional Experience
+--
 
 ### Southwest Power Pool — Solutions Architect
 **Feb 2025 – Jun 2025**
